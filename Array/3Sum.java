@@ -9,7 +9,7 @@ class Solution {
         //     for(int j=i+1 ; j<nums.length ; j++)
         //     {
         //         int third= -(nums[i]+nums[j]);
-        //         if(hashSet.contains(third))
+        //         if(hashSet.contains(third)) 
         //         {
         //             List<Integer> tempList= Arrays.asList(nums[i] , nums[j], third);
         //             tempList.sort(null);
